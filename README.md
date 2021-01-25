@@ -1,2 +1,2 @@
-# Inventory_Serivce3_CNA
+# Inventory_Serivce2_CNA
 Cloud native apps grupp repository
